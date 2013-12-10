@@ -135,6 +135,7 @@ int main()
 	cout<<"  produced by fibo(n): "<<endl<<"  ";
     for(int i=1;i<13;i++)
 	  cout<<fibo(i)<<" ";
+
 	cout<<endl;
 	cout<<"  produced by fibo_dc(n): "<<endl<<"  ";
     for(i=1;i<13;i++)
